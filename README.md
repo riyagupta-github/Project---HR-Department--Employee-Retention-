@@ -5,7 +5,13 @@ The "HR Department - Employee Retention" project was undertaken with the primary
 
 ## Project Overview:<br>
 Employee retention remains one of the most pressing challenges faced by organizations globally. The departure of skilled employees not only results in the loss of invaluable knowledge and experience but also incurs substantial costs related to recruitment, training, and onboarding new hires. Therefore, understanding the factors that influence employee decisions to stay or leave is crucial for maintaining organizational health and ensuring long-term success.<br>
-In this project, a rich dataset comprising various employee attributes was analyzed. The dataset included the following features:<br>
+In this project, a rich dataset comprising various employee attributes was analyzed. The dataset included the following features:<br> 
+
+## Tools and Techniques:<br>
+***Programming Language***: Python<br>
+***Libraries***: Pandas,Numpy,Scikit-Learn,Statsmodel,Matplotlib,Seaborn<br>
+***Modeling Techniques***:Linear Regression,Random Forest Regressor,XgBoost Regressor,Logistic Regressoer, Decision Tree Model etc<br>
+***Data sources***:Human_Resources.csv - Access Million<br>
 
 # Data Processing and Methodology:<br>
 
